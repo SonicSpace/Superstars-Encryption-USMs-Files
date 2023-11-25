@@ -10,11 +10,11 @@
 
 ### WannaCRI is based on Python 3.12.0, so in order to use it we need to install said version which can be downloaded here:
 
-`pip install WannaCRI`
+• `pip install WannaCRI`
 
 WannaCRI needs 'ffmpeg-python as well' And 'python-json-logger' to function correctly. 'ffmpeg-python gets' automatically installed with WannaCRI, but you need to install 'python-json-logger' manually. To do so, open Command Prompt (CMD) once again and type the following:
 
-`pip install python-json-logger`
+• `pip install python-json-logger`
 
 ### You have now successfully installed WannaCRI.
 
