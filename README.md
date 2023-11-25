@@ -71,7 +71,7 @@ x/y: Extract support / Create support
 
 | Codec   | Not-encrypted | Encrypted  |
 | ------- | ------------- | ---------- |
-| ADX     | ✅ / ✅       |           |
+| ADX     | ✅ / ✅       | ✅   ✅  |
 | CRI HCA | ✅ / ✅       | ✅ / ✅  |
 
 # Licence
