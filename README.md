@@ -20,7 +20,7 @@ While installing Python, make sure to tick the option that says 'Add Python 3.8 
 
 # Installing WannaCRI
 
-WannaCRI is based on Python 3.12.0 or Latest Version, so in order to use it we need to install said version which can be downloaded here:
+Open Command Prompt (CMD) and type the following to install WannaCRI:
 
 • `pip install WannaCRI`
 
