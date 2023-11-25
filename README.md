@@ -1,4 +1,4 @@
-# Encryption Of USM Files for Sonic Superstars
+# Encryption USM Files for Sonic Superstars
 
 This guide will lead you through the process of encrypting (custom) USM files.
 
