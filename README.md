@@ -12,7 +12,7 @@
 
 `pip install WannaCRI
 
-## WannaCRI needs **ffmpeg-python as well **python-json-logger to function correctly. **ffmpeg-python gets automatically installed with WannaCRI, but you need to install**python-json-logger manually. To do so, open Command Prompt (CMD) once again and type the following:
+WannaCRI needs **"ffmpeg-python as well"**python-json-logger to function correctly. **"ffmpeg-python gets" automatically installed with WannaCRI, but you need to install **python-json-logger" manually. To do so, open Command Prompt (CMD) once again and type the following:
 
 `pip install python-json-logger
 
