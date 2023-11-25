@@ -69,9 +69,10 @@ x/y: Extract support / Create support
 
 ### Audio
 
-| Codec   | Not-encrypted | Encrypted |
-| ------- | ------------- | --------- |
-| CRI HCA | ✅ / ✅       | ✅ / ✅   |
+| Codec   | Not-encrypted | Encrypted  |
+| ------- | ------------- | ---------- |
+| ADX     | ✅ / ✅       |           |
+| CRI HCA | ✅ / ✅       | ✅ / ✅  |
 
 # Licence
 
