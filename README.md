@@ -4,7 +4,7 @@
 
 ## Introduction And Credit
 
-Sonic Superstars uses Criware's middleware called Sofdec2 which creates video containers that end with the file extension 'USM'. These files have unfortunately been encrypted for the PC version of Sonic Superstars and were previously not modifiable. Thanks to @DonmaiDonmai, the situation has changed now: Donmai created an additional Python script for us that works in combination with his work-in-progress Python library called WannaCri. (https://github.com/donmai-me/WannaCRI). This would not be possible without Donmai, so huge thanks to him!
+# Sonic Superstars uses Criware's middleware called Sofdec2 which creates video containers that end with the file extension 'USM'. These files have unfortunately been encrypted for the PC version of Sonic Superstars and were previously not modifiable. Thanks to @DonmaiDonmai, the situation has changed now: Donmai created an additional Python script for us that works in combination with his work-in-progress Python library called WannaCri. (https://github.com/donmai-me/WannaCRI). This would not be possible without Donmai, so huge thanks to him!
 
 ## Installing Python
 
