@@ -10,7 +10,7 @@
 
 # Installing Python
 
-### WannaCRI is based on Python 3.12.0, so in order to use it we need to install said version which can be downloaded here: 
+### WannaCRI is based on Python 3.12.0, so in order to use it we need to install said version which can be downloaded here:
 
 • https://www.python.org/downloads
 
@@ -36,13 +36,13 @@
 
 [![Version](https://img.shields.io/pypi/v/wannacri.svg)](https://pypi.org/project/WannaCRI)
 
-WannaCRI
-========
+# WannaCRI
+
 A (WIP) Python library for parsing, extracting, and generating Criware's various audio and video file formats.
 If you're interested in reading more about USM, you can read my write-up about it [here](https://listed.to/@donmai/24921/criware-s-usm-format-part-1)
 
-Support
-=======
+# Support
+
 This currently supports the following formats with more planned:
 
 ✅: Implemented and tested ❓: Should work but not tested ❌: Not implemented
@@ -54,17 +54,17 @@ x/y: Extract support / Create support
 ### Video
 
 | Codec | Not-encrypted | Encrypted |
-| ----- | ----- |-----------|
-| VP9 | ✅ / ✅  | ✅ / ✅     |
-| H.264 | ✅ / ✅ | ✅ / ❓     |
-| Prime | ❓ / ❌ | ❓ / ❌     |
+| ----- | ------------- | --------- |
+| VP9   | ✅ / ✅       | ✅ / ✅   |
+| H.264 | ✅ / ✅       | ✅ / ❓   |
+| Prime | ❓ / ❌       | ❓ / ❌   |
 
 ### Audio
 
-| Codec | Not-encrypted | Encrypted |
-| ----- | ----- | ----- |
-| CRI HCA | ✅ / ❌ | ✅ / ❌ |
+| Codec   | Not-encrypted | Encrypted |
+| ------- | ------------- | --------- |
+| CRI HCA | ✅ / ❌       | ✅ / ❌   |
 
-Licence
-=======
+# Licence
+
 This is an open-sourced application licensed under the MIT License
