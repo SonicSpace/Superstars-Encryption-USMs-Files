@@ -1,6 +1,6 @@
 # Encryption USM Files for Sonic Superstars
 
-This guide will lead you through the process of encrypting (custom) USM files.
+This guide will lead you through the process of encrypting USM files.
 
 ![a1e51d9109110d7f-1920x1080 (1)](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/bcf5fd0e-0495-418d-aac9-d26464bea23d)
 
