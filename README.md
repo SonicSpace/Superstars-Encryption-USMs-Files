@@ -83,7 +83,7 @@ WannaCri And Ffmpeg are an open-sourced application licensed under the MIT Licen
 This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC. 
 All trademarks are the property of their respective owners.
 
-![Licence](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/e403d010-4156-4c21-a70d-2e75f44e9a4b)
+![Licence2](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/1b0665f9-162a-4373-af7d-d271d3379411)
 
 
 
