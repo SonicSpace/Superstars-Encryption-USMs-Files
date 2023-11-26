@@ -81,8 +81,7 @@ x/y: Extract support / Create support
 This is an open-sourced application licensed under the MIT License
 
 ![SEGA Logo](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/4a3f62ef-d2de-44d1-ac80-e0b0d492b58f) 
-![Sonic_Team-Logo wine](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/9b2960c7-070a-47ca-a777-b342148eef93)
-![CriWare Logo](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/d80373f6-cd16-4942-bf17-b3670b0bf4d9)
+![Sonic_Team-Logo+CriWare-Logo](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/c8b783f3-a0c2-49ca-80c2-27af41ca3b41)
 
 
 
