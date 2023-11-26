@@ -7,6 +7,7 @@ By [Caio Natsune](https://gamebanana.com/members/1872963) ✅
 📅 Submitted at November 25, 2023
 
 ![a1e51d9109110d7f-1920x1080 (1)](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/bcf5fd0e-0495-418d-aac9-d26464bea23d)
+![kvArea-logo](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/2f826005-0b5c-49f5-a74b-5c5306ab1c41)
 
 # Introduction And Credit
 
@@ -77,3 +78,10 @@ x/y: Extract support / Create support
 # Licence
 
 This is an open-sourced application licensed under the MIT License
+
+![Cool Text - Caio Natsune 426173998439230](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/eef9ff59-fc5a-419a-b043-37c44a8550eb)
+![sega](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/4a3f62ef-d2de-44d1-ac80-e0b0d492b58f) ![Sem Título-2](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/92564301-1f19-475b-aba9-56dd6038a4a5)
+![Sonic_Team-Logo wine](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/9b2960c7-070a-47ca-a777-b342148eef93)
+
+
+
