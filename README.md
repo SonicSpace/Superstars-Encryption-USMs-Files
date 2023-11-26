@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/Sonic%20Modding-e2a754)](https://gamebanana.com/games/18552) [![Version](https://img.shields.io/badge/Python-Guide-blue)]()
 
 This guide will lead you through the process of encrypting USM files.
-By Caio Natsune ✅
+By [Caio Natsune](https://gamebanana.com/members/1872963) ✅
 
 📅 Submitted at November 25, 2023
 
