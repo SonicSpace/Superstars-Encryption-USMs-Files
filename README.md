@@ -20,7 +20,7 @@ Thanks to [Donmai-me](https://github.com/donmai-me), the situation has changed n
 
 WannaCRI is based on Python 3.12.0 or Latest Version, so in order to use it we need to install said version which can be downloaded here:
 
-➜ [![Version](https://img.shields.io/badge/Python%203.12.0%20(Windows%20x64%20executable%20installer)-007100)](https://www.python.org/downloads/release/python-3120/)
+➜ [![Version](https://img.shields.io/badge/Python%203.12.0%20(Windows%20x64%20executable%20installer)-007100)](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe)
 
 While installing Python, make sure to tick the option that says __'Add Python 3.8 to PATH'__.
 
