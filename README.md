@@ -81,7 +81,6 @@ x/y: Extract support / Create support
 WannaCri is an open-sourced application licensed under the MIT License.
 
 This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC.
-
 All trademarks are the property of their respective owners.
 ![Licence](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/31b10406-433e-4f5e-98a6-71406ff07945)
 
