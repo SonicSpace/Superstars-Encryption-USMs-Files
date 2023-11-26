@@ -80,6 +80,7 @@ x/y: Extract support / Create support
 # Licence
 
 [![Version](https://img.shields.io/badge/Free-3dae92)]() 
+
 WannaCri And FFmpeg are an open-sourced application licensed under the MIT License.
 
 This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC. 
