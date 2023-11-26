@@ -81,10 +81,10 @@ x/y: Extract support / Create support
 
 [![Version](https://img.shields.io/badge/Free-3dae92)]() 
 
-Python, WannaCri & FFmpeg are an open-sourced application licensed under 
+Python, WannaCri & FFmpeg are an open-sourced application licensed under<br/> 
 the MIT, OSI & Python Software Foundation License.
 
-This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC. 
+This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC.<br/> 
 All trademarks are the property of their respective owners.
 
 ![Licence2](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/1b0665f9-162a-4373-af7d-d271d3379411)
