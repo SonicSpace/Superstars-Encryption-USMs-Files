@@ -26,7 +26,7 @@ While installing Python, make sure to tick the option that says __'Add Python 3.
 
 Open **Command Prompt (CMD)** and type the following to install WannaCRI:
 
-• `#2c777a`pip install WannaCRI`
+• `pip install WannaCRI`
 
 WannaCRI needs 'ffmpeg-python as well' And 'python-json-logger' to function correctly. 'ffmpeg-python gets' automatically installed with WannaCRI, but you need to install 'python-json-logger' manually. To do so, open **Command Prompt (CMD)** once again and type the following:
 
