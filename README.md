@@ -61,7 +61,8 @@ x/y: Extract support / Create support
 
 ## USM
 
-### Video
+### Video [![Version](https://img.shields.io/badge/Extension-8A2BE2)]()
+
 
 | Codec | Not-encrypted | Encrypted |
 | ----- | ------------- | --------- |
@@ -69,7 +70,7 @@ x/y: Extract support / Create support
 | H.264 | ✅ / ✅       | ✅ / ✅   |
 | Prime | ✅ / ✅       | ✅ / ✅   |
 
-### Audio
+### Audio [![Version](https://img.shields.io/badge/Extension-8A2BE2)]()
 
 | Codec   | Not-encrypted | Encrypted |
 | ------- | ------------- | --------- |
@@ -78,7 +79,7 @@ x/y: Extract support / Create support
 
 # Licence
 
-WannaCri And Ffmpeg are an open-sourced application licensed under the MIT License.
+[![Version](https://img.shields.io/badge/Free-Green)]() WannaCri And Ffmpeg are an open-sourced application licensed under the MIT License.
 
 This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC. 
 All trademarks are the property of their respective owners.
