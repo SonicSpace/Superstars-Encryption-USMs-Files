@@ -19,7 +19,7 @@ WannaCRI is based on Python 3.12.0 or Latest Version, so in order to use it we n
 
 • [Python 3.12.0 (Windows x64 executable installer)](https://www.python.org/downloads/)
 
-While installing Python, make sure to tick the option that says **'Add Python 3.8 to PATH'.**
+While installing Python, make sure to tick the option that says __'Add Python 3.8 to PATH'__.
 
 # Installing WannaCRI
 
