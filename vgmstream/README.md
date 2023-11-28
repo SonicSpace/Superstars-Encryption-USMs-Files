@@ -1,17 +1,10 @@
-#ifndef _SONICTEAM_KEYS_H_
-#define _SONICTEAM_KEYS_H_
-#include <stdint.h>
-//#Include "Recent_Sonic_Games_Keys_General.h"
+# ifndef _SONICTEAM_KEYS_H_
 
-typedef struct {
-uint64_t key; /_ General key or seed ('user') key _/
-#if 0
-const uint16_t* Sonickeys; /* scramble sonickey table for seed key _/
-size_t Sonickeys_size; /_ size of the derivation sonickey table \*/
-#endif
-} SonicTeamkey_info;
+# define _SONICTEAM_KEYS_H_
 
-/\*\*
+# include <stdint.h>
+
+# Include "Recent_Sonic_Games_Keys_General.h"
 
 - List of known keys, extracted from the game files (most from data analisys, some from 2ch.net/forums).
 - CRI's tools expect an unsigned 64 bit numberic string, but keys are commonly found online in hex form.
