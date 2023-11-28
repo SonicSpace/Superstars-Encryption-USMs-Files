@@ -8,6 +8,7 @@
 
 {1991062320220623}, // 000712DC525289CF
 
+![colours_logo](https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/ef2220c2-1cde-44e8-827c-a66b89c664a0)
 ### // Sonic Colors: Ultimate ソニックカラーズ：アルティメット (CRI Multi)
 
 {1991062320101111}, // 000712DC5250B6F7
