@@ -1,4 +1,4 @@
-https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/cfae4166-48a1-489c-bb1f-b00062d30e9f
+https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/ea4e7ad9-cb04-4298-b0e9-cf08fd3b3519
 # // CRI General decoder default //
 ![kvArea-logo](https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/76484c8a-aeb8-4bfa-b6d2-6b18957cc071)
 ### // Sonic Superstars ソニックスーパースターズ (CRI Multi)
