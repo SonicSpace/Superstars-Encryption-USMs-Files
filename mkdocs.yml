@@ -1,4 +1,0 @@
-plugins:
-  - mkdocs-video:
-      is_video: True
-      video_loop: True
