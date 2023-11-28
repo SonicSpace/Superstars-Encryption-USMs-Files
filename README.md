@@ -88,4 +88,3 @@ All trademarks are the property of their respective owners.
 ![Licence2](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/1b0665f9-162a-4373-af7d-d271d3379411)
 
 <video loop src="https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/ea4e7ad9-cb04-4298-b0e9-cf08fd3b3519"> video </video>
-https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/ea4e7ad9-cb04-4298-b0e9-cf08fd3b3519 
