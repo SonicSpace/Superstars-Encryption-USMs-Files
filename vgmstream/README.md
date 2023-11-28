@@ -1,6 +1,6 @@
 # // CRI General decoder default //
 
-### // Sonic Superstars ソニックスーパースターズ (Multi)
+### // Sonic Superstars ソニックスーパースターズ (CRI USM, Switch)
 
 {1991062320230623}, // 000712DC5252B0DF
 
