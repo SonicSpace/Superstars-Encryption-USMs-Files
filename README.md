@@ -1,4 +1,5 @@
-# Encryption USM Files for Sonic Superstars 
+# Encryption USM Files for Sonic Superstars
+
 [![Version](https://img.shields.io/badge/Sonic%20Modding-e2a754)](https://gamebanana.com/games/18552) [![Version](https://img.shields.io/badge/Python-Guide-blue)]()
 
 This guide will lead you through the process of encrypting USM files.
@@ -20,9 +21,9 @@ Thanks to [Donmai-me](https://github.com/donmai-me), the situation has changed n
 
 WannaCRI is based on Python 3.12.0 or Latest Version, so in order to use it we need to install said version which can be downloaded here:
 
-➜ [![Version](https://img.shields.io/badge/Python%203.12.0%20(Windows%20x64%20executable%20installer)-007100)](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe)
+➜ [![Version](<https://img.shields.io/badge/Python%203.12.0%20(Windows%20x64%20executable%20installer)-007100>)](https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe)
 
-While installing Python, make sure to tick the option that says __'Add Python.exe to PATH'__.
+While installing Python, make sure to tick the option that says **'Add Python.exe to PATH'**.
 
 # Installing WannaCRI
 
@@ -61,7 +62,6 @@ x/y: Extract support / Create support
 
 ### Video [![Version](https://img.shields.io/badge/Extension-8A2BE2)]()
 
-
 | Codec | Not-encrypted | Encrypted |
 | ----- | ------------- | --------- |
 | VP9   | ✅ / ✅       | ✅ / ✅   |
@@ -77,20 +77,14 @@ x/y: Extract support / Create support
 
 # Licence
 
-[![Version](https://img.shields.io/badge/Free-3dae92)]() 
+[![Version](https://img.shields.io/badge/Free-3dae92)]()
 
-Python, WannaCri & FFmpeg are an open-sourced application licensed under<br/> 
+Python, WannaCri & FFmpeg are an open-sourced application licensed under<br/>
 the MIT, OSI & Python Software Foundation License.
 
-This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC.<br/> 
+This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC.<br/>
 All trademarks are the property of their respective owners.
 
 ![Licence2](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/1b0665f9-162a-4373-af7d-d271d3379411)
 
-https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/ea4e7ad9-cb04-4298-b0e9-cf08fd3b3519<video loop src="Licence.mp4">  video </video> 
-
-
-
-
-
-
+https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/ea4e7ad9-cb04-4298-b0e9-cf08fd3b3519 <video loop src="Licence.mp4"> video </video>
