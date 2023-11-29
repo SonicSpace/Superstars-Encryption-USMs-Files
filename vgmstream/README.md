@@ -1,11 +1,11 @@
 ![ezgif com-video-to-gif (1)](https://github.com/mkdocs/mkdocs/assets/88670125/8e541aac-f90b-4cb8-81a6-c43bc99f8489)
-
 # // CRI General decoder default //
 ![kvArea-logo](https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/76484c8a-aeb8-4bfa-b6d2-6b18957cc071)
 
 ### // Sonic Superstars ソニックスーパースターズ (CRI Multi)
 
 {1991062320230623}, // 000712DC5252B0DF
+
 ![logo_640](https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/4fb41ed1-a2f2-4a19-9ef9-3df7bae1fed8)
 
 ### // Sonic Origins ソニック・オリジンズ (CRI Multi)
