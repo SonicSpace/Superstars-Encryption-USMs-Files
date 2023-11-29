@@ -1,7 +1,6 @@
 ![ezgif com-video-to-gif (1)](https://github.com/mkdocs/mkdocs/assets/88670125/8e541aac-f90b-4cb8-81a6-c43bc99f8489)
 
 # // CRI General decoder default //
-
 ![kvArea-logo](https://github.com/SonicSpace/Superstars-Encryption-USMs-Files/assets/88670125/76484c8a-aeb8-4bfa-b6d2-6b18957cc071)
 
 ### // Sonic Superstars ソニックスーパースターズ (CRI Multi)
