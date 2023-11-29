@@ -86,4 +86,4 @@ This project is not affiliated with SEGA, SONIC TEAM & CRIWARE INC.<br/>
 All trademarks are the property of their respective owners.
 
 ![Licence2](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/1b0665f9-162a-4373-af7d-d271d3379411)
-![ezgif com-video-to-gif](https://github.com/mkdocs/mkdocs/assets/88670125/7b689b58-2f1f-4a83-b6a7-4c022e0cf3b6)
+![ezgif com-video-to-gif (1)](https://github.com/mkdocs/mkdocs/assets/88670125/8e541aac-f90b-4cb8-81a6-c43bc99f8489)

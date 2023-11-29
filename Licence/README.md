@@ -1,4 +1,4 @@
-![ezgif com-video-to-gif](https://github.com/mkdocs/mkdocs/assets/88670125/7b689b58-2f1f-4a83-b6a7-4c022e0cf3b6)
+![ezgif com-video-to-gif (1)](https://github.com/mkdocs/mkdocs/assets/88670125/8e541aac-f90b-4cb8-81a6-c43bc99f8489)
 ![SEGA Logo](https://github.com/mkdocs/mkdocs/assets/88670125/22006d38-5719-4130-97bd-10537e02613f)
 ![Sonic Team Logo](https://github.com/mkdocs/mkdocs/assets/88670125/a26cc939-371d-446d-888b-466da61597c3)
 ![CriWare Kawaii Logo](https://github.com/mkdocs/mkdocs/assets/88670125/c2128d10-5227-497c-b2e0-8131dc1f639c)
