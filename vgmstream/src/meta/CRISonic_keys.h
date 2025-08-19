@@ -32,3 +32,6 @@ static const sonickey_info sonickey_list[] = {
 // Sonic Colors: Ultimate ソニックカラーズ：アルティメット (Multi)
 {1991062320101111}, // 000712DC5250B6F7
 
+// Sonic Runners (iOS/Android)
+{19910623}, // 00000000012FCFDF
+

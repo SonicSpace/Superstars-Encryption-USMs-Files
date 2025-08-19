@@ -18,5 +18,11 @@
 
 {1991062320101111}, // 000712DC5250B6F7
 
+![SonicRunners-logo](https://github.com/user-attachments/assets/8e940cd1-013d-45e9-b146-18dd796c2574)
+
+### // Sonic Runners ソニックランナーズ (iOS/Android)
+
+{19910623}, // 00000000012FCFDF
+
 ![Licence2](https://github.com/SonicSpace/Encryption-USMs-Files/assets/88670125/1b0665f9-162a-4373-af7d-d271d3379411)
 ![ezgif com-video-to-gif (1)](https://github.com/mkdocs/mkdocs/assets/88670125/8e541aac-f90b-4cb8-81a6-c43bc99f8489)
